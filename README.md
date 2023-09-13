@@ -69,6 +69,4 @@
 
 <br clear="both">
 
-<img src="https://raw.githubusercontent.com/OfekEfron/OfekEfron/output/snake.svg" alt="Snake animation" />
-
 ###
