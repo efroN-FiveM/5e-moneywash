@@ -59,14 +59,10 @@
 
 ###
 
-<h2 align="left">FAQ</h2>
+<h2 align="left">Important</h2>
 
 ###
 
 <p align="left">• Script support ESX<br>• You aren't able to resell this code<br>• You aren't able to republish this code</p>
-
-###
-
-<br clear="both">
 
 ###
